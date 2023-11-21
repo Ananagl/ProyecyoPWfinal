@@ -1,0 +1,9 @@
+com.example.cometcanvasbackend
+com.example.cometcanvasbackend.Controllers
+com.example.cometcanvasbackend.Entities
+com.example.cometcanvasbackend.Interfaces
+com.example.cometcanvasbackend.Iservice
+com.example.cometcanvasbackend.modelo
+com.example.cometcanvasbackend.Repositories
+com.example.cometcanvasbackend.SecurityConfiguration
+com.example.cometcanvasbackend.Service
